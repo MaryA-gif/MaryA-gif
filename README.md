@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryA-gif
 - 👀 I’m interested in Data Science stream
-- 🌱 I’m currently finished my Masters degree in Data Analytics
+- 🌱 I recently completed my Masters degree in Data Analytics and currently looking for an job opportunity.
 - 📫 Reach me at through email ambrosemary42@gmail.com
 - 😄 Pronouns: She / Her
 ---
@@ -22,10 +22,12 @@ Hello! I'm Mary Ambrose, an aspiring Data Analyst with a strong analytical backg
 - **Machine Learning & NLP**: Deep Learning, Spacy, Lang Chain, Llama2, RAG
 - **Cloud & Databases**: AWS (Basics), SQL
 ### Certifications
+- Python with Tkinter
 - Foundation of Cloud IOT Edge of ML (NPTEL)
 - Cloud Computing and Distributed System (NPTEL)
 - DTP (Corel Draw)
 - AWS (Basic), Microsoft Power BI, Microsoft Excel
+
 ### Languages
 - **English**: Full Professional Proficiency
 - **Tamil**: Native or Bilingual Proficiency
